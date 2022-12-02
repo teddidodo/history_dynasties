@@ -4,13 +4,8 @@ cd frontend
 vue add quasar
 
 
-
-
-
 Syntax Error: TypeError: this.getOptions is not a function
 npm uninstall sass-loader && npm install sass-loader@10.1.1
-
-
 
 Loading Splash Screen
 https://visualbean.medium.com/simple-vue-splash-screen-f734b096d919
@@ -32,11 +27,6 @@ Image for background
 <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Imperial_Seal_of_Japan.svg/1920px-Imperial_Seal_of_Japan.svg.png -->
 <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sekigahara_Kassen_By%C5%8Dbu-zu_%28Gifu_History_Museum%29.jpg/1200px-Sekigahara_Kassen_By%C5%8Dbu-zu_%28Gifu_History_Museum%29.jpg -->
 <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_the_Japanese_Emperor.svg/2560px-Flag_of_the_Japanese_Emperor.svg.png -->
-
-
-
-
-
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lake_Kawaguchiko_Sakura_Mount_Fuji_3.JPG/2560px-Lake_Kawaguchiko_Sakura_Mount_Fuji_3.JPG
