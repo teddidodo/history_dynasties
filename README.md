@@ -9,10 +9,12 @@
 
 + Vue (Quasar)
 + Python FastAPI
-+ PostgreSQL
++ PostgreSQL (bit.io)
 
 ## Features
 
 + Searching for dynasties
 + Viewing the timeline of a dynasty
 + Scroll the timeline to view specific periods
+
+Notes: Recently, bit.io had joined Databricks. Therefore, they turned down the database service for this application. The deployed URL currently did not work.
